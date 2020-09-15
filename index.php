@@ -1,4 +1,4 @@
 <?php 
-    echo "Solucionando conflicto";
+    echo "Solucionando conflicto"; 
 
 ?>
